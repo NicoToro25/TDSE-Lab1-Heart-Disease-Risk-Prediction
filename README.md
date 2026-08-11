@@ -26,6 +26,22 @@ The objective is to understand the complete implementation of Logistic Regressio
 
 ---
 
+
+## Project Structure
+
+```
+.
+├── heart_disease_lr_analysis.ipynb
+├── heart.csv
+├── README.md
+└── images/
+    ├── sagemaker_notebook.png
+    ├── training_completed.png
+    └── test_metrics.png
+```
+
+---
+
 ## How to Run
 
 1. Clone or download the repository.
@@ -57,21 +73,6 @@ Target:
 Dataset source:
 
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
-
----
-
-## Project Structure
-
-```
-.
-├── heart_disease_lr_analysis.ipynb
-├── heart.csv
-├── README.md
-└── images/
-    ├── sagemaker_notebook.png
-    ├── training_completed.png
-    └── test_metrics.png
-```
 
 ---
 
